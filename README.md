@@ -1,3 +1,11 @@
+## About this fork
+
+This is my individual branch/contribution from my Summer 2026 internship 
+at Analog Devices Romania. For this repo, we added a custom 6-channel PWM generator IP.
+Design was tested and validated on Cora Z7S board.
+
+Original repository: [adisummerschool/hdl](https://github.com/adisummerschool/hdl)
+
 <p align="center">
 <img src="docs/sources/HDL_logo.png" width="500" alt="ADI HDL Logo"> </br>
 </p>
